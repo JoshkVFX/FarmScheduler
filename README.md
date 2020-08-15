@@ -1,2 +1,2 @@
-# FarmScheduler
-A farm scheduler with a decent UI
+# FarmUI
+A decent UI for Render Farm scheduling
